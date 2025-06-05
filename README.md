@@ -51,15 +51,13 @@ Watch a short demo of the app in action:
 Here are some previews of the application:
 
 ### 📊 Dashboard Overview
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](Images/Performance_data.png)
 
-### 📈 Subject-wise Radar Chart
-![Radar Chart](screenshots/radar_chart.png)
+### 📈 Visualization
+![Radar Chart](Images/Visualization.png)
 
-### 📄 Generated Report (PDF)
-![PDF Report](screenshots/report_preview.png)
-
-*Make sure your images are stored in a `screenshots/` directory in your repo.*
+### 📄 Performance Table
+![PDF Report](Images/Performance_data.png)
 
 ---
 
@@ -108,10 +106,6 @@ Ensure a `data.json` file is present in the root directory to demo the system.
 
 ```bash
 streamlit run your_script_name.py
-```
-
-Open your browser at: [http://localhost:8501](http://localhost:8501)
-
 ---
 
 ## 📁 File Structure
