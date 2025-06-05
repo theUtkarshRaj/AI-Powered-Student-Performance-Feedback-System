@@ -39,7 +39,7 @@ A Streamlit-based application that analyzes student test performance, visualizes
 
 Watch a short demo of the app in action:
 
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+[![Watch the demo](Demo video.mp4)
 
 *Replace `YOUR_VIDEO_ID_HERE` with your actual YouTube video ID.*
 
