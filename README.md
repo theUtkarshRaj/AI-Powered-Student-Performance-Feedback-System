@@ -1,4 +1,3 @@
-````markdown
 # 🎓 AI-Powered Student Performance Feedback System
 
 A Streamlit-based application that analyzes student test performance, visualizes learning trends, and uses the **Google Gemini API** to generate personalized academic feedback. It outputs professional, downloadable reports to help students and educators track and improve learning outcomes.
@@ -68,7 +67,7 @@ Here are some previews of the application:
 ```bash
 git clone <your-repository-url>
 cd <your-repository-directory>
-````
+```
 
 ### 2. Create a Virtual Environment
 
@@ -106,6 +105,8 @@ Ensure a `data.json` file is present in the root directory to demo the system.
 
 ```bash
 streamlit run your_script_name.py
+```
+
 ---
 
 ## 📁 File Structure
@@ -116,10 +117,9 @@ streamlit run your_script_name.py
 ├── data.json               # Sample student test data
 ├── .env                    # API key (not included in git)
 ├── requirements.txt        # Project dependencies
-├── screenshots/            # Folder for demo images
-│   ├── dashboard.png
-│   ├── radar_chart.png
-│   └── report_preview.png
+├── Images/                 # Folder for demo images
+│   ├── Performance_data.png
+│   ├── Visualization.png
 └── README.md               # Project documentation
 ```
 
@@ -129,6 +129,7 @@ streamlit run your_script_name.py
 
 ```text
 MIT License
+```
 
 ---
 
@@ -137,6 +138,3 @@ MIT License
 * Developed using [Streamlit](https://streamlit.io/)
 * Feedback generation powered by [Google Gemini API](https://ai.google.dev/)
 * Visualizations via [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/)
-
----
-
