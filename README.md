@@ -39,9 +39,8 @@ A Streamlit-based application that analyzes student test performance, visualizes
 
 Watch a short demo of the app in action:
 
-[![Watch the demo](Demo video.mp4)
+🎥 [Click here to watch the demo](Demo%20video.mp4)
 
-*Replace `YOUR_VIDEO_ID_HERE` with your actual YouTube video ID.*
 
 ---
 
