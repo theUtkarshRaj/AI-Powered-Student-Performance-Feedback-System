@@ -1,0 +1,2773 @@
+[{
+  "_id": {
+    "$oid": "683bf660e0086564267a7278"
+  },
+  "test": {
+    "syllabus": "<h1>QPT 1 Syllabus - 11 May 2025 (Sunday)</h1>\n<h2>Physics</h2>\n<ul>\n  <li>Electrostatics</li>\n  <li>Capacitance</li>\n</ul>\n<h2>Chemistry</h2>\n<ul>\n  <li>Solutions</li>\n  <li>Electrochemistry</li>\n</ul>\n<h2>Maths</h2>\n<ul>\n  <li>Sets and Relations</li>\n  <li>Functions</li>\n</ul>",
+    "totalTime": 180,
+    "totalQuestions": 75,
+    "totalMarks": 300
+  },
+  "subjects": [
+    {
+      "_id": {
+        "$oid": "683bf660e0086564267a72f4"
+      },
+      "subjectId": {
+        "$oid": "607018ee404ae53194e73d92"
+      },
+      "totalTimeTaken": 2984,
+      "totalMarkScored": 44,
+      "totalAttempted": 16,
+      "totalCorrect": 12,
+      "accuracy": 75
+    },
+    {
+      "_id": {
+        "$oid": "683bf660e0086564267a72f5"
+      },
+      "subjectId": {
+        "$oid": "607018ee404ae53194e73d90"
+      },
+      "totalTimeTaken": 1397,
+      "totalMarkScored": 60,
+      "totalAttempted": 20,
+      "totalCorrect": 16,
+      "accuracy": 80
+    },
+    {
+      "_id": {
+        "$oid": "683bf660e0086564267a72f6"
+      },
+      "subjectId": {
+        "$oid": "607018ee404ae53194e73d91"
+      },
+      "totalTimeTaken": 617,
+      "totalMarkScored": 29,
+      "totalAttempted": 11,
+      "totalCorrect": 8,
+      "accuracy": 72.72727272727273
+    }
+  ],
+  "totalTimeTaken": 4998,
+  "totalMarkScored": 133,
+  "totalAttempted": 47,
+  "totalCorrect": 36,
+  "accuracy": 76.59574468085107,
+  "sections": [
+    {
+      "sectionId": {
+        "sectionType": "normal",
+        "title": "Physics Single Correct",
+        "maximumAttemptLimit": 20
+      },
+      "questions": [
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Capacitance"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Capacitors with Dielectric"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Multiple dielectric slabs in capacior"
+              }
+            ],
+            "level": "medium",
+            "question": {
+              "text": "The distance between two parallel plates of a capacitor is a. A conductor of thickness $\\mathrm{b}(\\mathrm{b} \\lt \\mathrm{a})$ is inserted between the plates as shown in the figure. The variation of effective capacitance between the plates of the capacitor as a function of the distance $(x)$ is best represented by\r\n<img src=\"https://cdn.quizrr.in/question-assets/jee_main/2026/jee_main_pt_2026/aUqbJ1A6CVKfm7rwRy_3TCvmBv_qfZDWXM9RSe6CPyc.original.fullsize.png\"/><br/>"
+            }
+          },
+          "markedOptions": [
+            {
+              "_id": {
+                "$oid": "683bf660e0086564267a72a5"
+              },
+              "optionId": "33b3dd",
+              "isCorrect": false
+            }
+          ],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 25,
+          "timeLeftWhenAttempted": 110,
+          "status": "answered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Electrostatics"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Electric Charge and Coulomb's law"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Coulombs Law"
+              }
+            ],
+            "level": "easy",
+            "question": {
+              "text": "Two-point charges $+Q$ and $+q$ repel each other with a force of $100 \\mathrm{~N}$. Keeping the distance between them unchanged, if $Q$ is increased by $10 \\%$ and $q$ is decreased by $q$ the force of repulsion between them will."
+            }
+          },
+          "markedOptions": [
+            {
+              "_id": {
+                "$oid": "683bf660e0086564267a72a7"
+              },
+              "optionId": "289fe4",
+              "isCorrect": false
+            }
+          ],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 132,
+          "timeLeftWhenAttempted": 108,
+          "status": "answered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Electrostatics"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Electric Dipole"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Electric Field and Force due to Dipole"
+              }
+            ],
+            "level": "tough",
+            "question": {
+              "text": "Two electric dipoles of moment $\\mathrm{P}$ and $27 \\mathrm{P}$ are placed on a line with their centres $24 \\mathrm{~cm}$ apart. Their dipole moments are in opposite direction. At which point the electric field will be zero between the dipoles from the centre of dipole of moment P?"
+            }
+          },
+          "markedOptions": [
+            {
+              "_id": {
+                "$oid": "683bf660e0086564267a72a9"
+              },
+              "optionId": "c8788e",
+              "isCorrect": true
+            }
+          ],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 105,
+          "timeLeftWhenAttempted": 106,
+          "status": "answered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Capacitance"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Grouping of capacitors"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Series and Parallel Combinations of Capacitor"
+              }
+            ],
+            "level": "easy",
+            "question": {
+              "text": "The equivalent capacitance between $A$ and $B$ is<br><img src=\"https://cdn.quizrr.in/question-assets/jee_main/2024/pt_33sfsd2523/fBUTeiWIEcafKjIEiJ5hpbsQYs_nsOgOkO8hGLcyhfM.original.fullsize_3.png\" />"
+            }
+          },
+          "markedOptions": [],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 173,
+          "timeLeftWhenAttempted": 103,
+          "status": "markedReview"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Electrostatics"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Electric Potential and Potential Energy"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Electric potential due to point charge"
+              }
+            ],
+            "level": "tough",
+            "question": {
+              "text": "At a distance $\\ell$ from a uniformly charged long wire, a charged particle is thrown radially outward with a velocity $\\mathrm{u}$ in the direction perpendicular to the wire. When the particle reaches a distance $2 \\ell$ from the wire its speed is found to be $\\sqrt{2} \\mathrm{u}$. The magnitude of the velocity, when it is a distance $4 \\ell$ away from the wire, is (ignore gravity)"
+            }
+          },
+          "markedOptions": [],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 161,
+          "timeLeftWhenAttempted": 101,
+          "status": "markedReview"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Capacitance"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Charging and Discarging of capacitors"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Charging of Capacitors"
+              }
+            ],
+            "level": "medium",
+            "question": {
+              "text": "<p style=\"text-align: justify;\">In the given circuit, a charge of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>+</mo><mn>80</mn><mo>&#160;</mo><mi>&#956;C</mi></math> is given to upper plate of a $4 \\mu \\mathrm{F}$ capacitor. At steady state the charge on the upper plate of the $3 \\mu \\mathrm{F}$ capacitor is&nbsp;</p><p style=\"text-align: justify;\"><img src=\"https://cdn.quizrr.in/question-assets/jee_main/2024/pt_33sfsd2523/8ddc8238-ae3f-4ded-b9fb-72a59b8ea41e-image_2.png\" style=\"width: 152px; height: 200px;\" /></p>"
+            }
+          },
+          "markedOptions": [
+            {
+              "_id": {
+                "$oid": "683bf660e0086564267a72ad"
+              },
+              "optionId": "7546e1",
+              "isCorrect": true
+            }
+          ],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 91,
+          "timeLeftWhenAttempted": 99,
+          "status": "answered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Electrostatics"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Electric Dipole"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Properties of Electric Dipole"
+              }
+            ],
+            "level": "medium",
+            "question": {
+              "text": "An electric dipole has the magnitude of its charge as q and its dipole moment is p. It is placed in a uniform electric field E. If its dipole moment is along the direction of the field, the force on it and its potential energy are respectively"
+            }
+          },
+          "markedOptions": [
+            {
+              "_id": {
+                "$oid": "683bf660e0086564267a72af"
+              },
+              "optionId": "91b621",
+              "isCorrect": true
+            }
+          ],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 20,
+          "timeLeftWhenAttempted": 98,
+          "status": "answered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Electrostatics"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Electric Field and Electric Field Lines"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Electric Field due to continuous charge distribution"
+              }
+            ],
+            "level": "easy",
+            "question": {
+              "text": "A metallic sphere is kept in between two oppositely charged plates. The most appropriate representation of the field lines is -"
+            }
+          },
+          "markedOptions": [
+            {
+              "_id": {
+                "$oid": "683bf660e0086564267a72b1"
+              },
+              "optionId": "435a29",
+              "isCorrect": true
+            }
+          ],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 42,
+          "timeLeftWhenAttempted": 98,
+          "status": "answered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Electrostatics"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Electric Flux and Gauss Law"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Electric flux"
+              }
+            ],
+            "level": "medium",
+            "question": {
+              "text": "A charge \\(q\\) is uniformly distributed on a ring of radius \\(r\\). A sphere of an equal radius is constructed with its centre lying on the periphery of the ring. The flux of electric field through the surface of the sphere will be"
+            }
+          },
+          "markedOptions": [
+            {
+              "_id": {
+                "$oid": "683bf660e0086564267a72b3"
+              },
+              "optionId": "250886",
+              "isCorrect": true
+            }
+          ],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 56,
+          "timeLeftWhenAttempted": 96,
+          "status": "answered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Capacitance"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Force and Energy stored in capacitor"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Force on plates of capacitor"
+              }
+            ],
+            "level": "easy",
+            "question": {
+              "text": "Assertion : The force between the plates of a parallel plate capacitor is proportional to charge on it.\r\r\nReason : Electric force is equal to charge per unit area."
+            }
+          },
+          "markedOptions": [
+            {
+              "_id": {
+                "$oid": "683bf660e0086564267a72b5"
+              },
+              "optionId": "09de30",
+              "isCorrect": false
+            }
+          ],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 57,
+          "timeLeftWhenAttempted": 95,
+          "status": "answered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Electrostatics"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Electric Field and Electric Field Lines"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Electric Field due to continuous charge distribution"
+              }
+            ],
+            "level": "tough",
+            "question": {
+              "text": "Two concentric conducting thin spherical shells \\(A\\) and \\(B\\) having radii \\(r_A\\) and \\(r_B\\left(r_B>\\right.\\) \\(\\left.r_A\\right)\\) are charged to \\(Q_A\\) and \\(-Q_B\\left(\\left|Q_B\\right|>\\left|Q_A\\right|\\right)\\). The electrical potential along a line, (passing through the centre is)"
+            }
+          },
+          "markedOptions": [
+            {
+              "_id": {
+                "$oid": "683bf660e0086564267a72b7"
+              },
+              "optionId": "31e5c1",
+              "isCorrect": true
+            }
+          ],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 7,
+          "timeLeftWhenAttempted": 95,
+          "status": "answered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Capacitance"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Grouping of capacitors"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Series and Parallel Combinations of Capacitor"
+              }
+            ],
+            "level": "medium",
+            "question": {
+              "text": "Four metal plates are arranged as shown in the figure. Capacitance between $X$ and $Y(A \\rightarrow$ Area of each plate, $d \\rightarrow$ distance between the plates) is<br><img src=\"https://cdn.quizrr.in/question-assets/jee_main/2024/pt_33sfsd2523/AqtXGg4RV0U81Q8Dkiu7d1YGJG8aGGS5R9TYl8Z96-Y.original.fullsize_2.png\" />"
+            }
+          },
+          "markedOptions": [
+            {
+              "_id": {
+                "$oid": "683bf660e0086564267a72b9"
+              },
+              "optionId": "48432a",
+              "isCorrect": true
+            }
+          ],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 24,
+          "timeLeftWhenAttempted": 94,
+          "status": "answered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Electrostatics"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Electric Flux and Gauss Law"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Gauss theorem"
+              }
+            ],
+            "level": "easy",
+            "question": {
+              "text": "A hollow cylinder has a charge q placed at its centre. If $\\phi$ is the electric flux (in Vm ) associated with the curved surface B, the flux linked with the plane surface $A$ is<br><img src=\"https://cdn.quizrr.in/question-assets/jee_main/2024/pt_33sfsd2523/A7mEDShGuef94S9DRShdwsLkpbvu6YqyYPRS1sy2_cQ.original.fullsize.png\" />"
+            }
+          },
+          "markedOptions": [
+            {
+              "_id": {
+                "$oid": "683bf660e0086564267a72bb"
+              },
+              "optionId": "9e1ac9",
+              "isCorrect": true
+            }
+          ],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 141,
+          "timeLeftWhenAttempted": 88,
+          "status": "answered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Capacitance"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Charging and Discarging of capacitors"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Discharging of Capacitors"
+              }
+            ],
+            "level": "medium",
+            "question": {
+              "text": "A constant potential difference between $A$ and $B$ is applied. When the switch is shifted from position $P$ to position $Q$, then<br><img src=\"https://cdn.quizrr.in/question-assets/jee_main/2024/pt_33sfsd2523/XuSnIoTXzcWU__mtg01-mOB9cnWx1EhAiOQQqW8G3SA.original.fullsize_2.png\">"
+            }
+          },
+          "markedOptions": [],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 22,
+          "timeLeftWhenAttempted": 88,
+          "status": "markedReview"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Electrostatics"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Electric Field and Electric Field Lines"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Charged Particle in electric field"
+              }
+            ],
+            "level": "tough",
+            "question": {
+              "text": "A charge particle is moving along electric field as shown in figure. What is horizontal displacement of the charge particle when it descends a distance of $y$ meter?\r\r\nGiven $Q / m=9.6 \\times 10^7 \\mathrm{C} / \\mathrm{kg}, E=5 \\times 10^5 \\mathrm{~V} / \\mathrm{m}$, $y=84 \\mathrm{~cm}, g=10 \\mathrm{~m} / \\mathrm{s}^2$\r\r\n<img src=\"https://cdn.quizrr.in/question-assets/jee_main/2025/reviaa15561zoon/CH9mTwubktrSj7QZ2APuxFUIz1-vR83JGmi30qoIWHc.original.fullsize.png\"/><br/>"
+            }
+          },
+          "markedOptions": [
+            {
+              "_id": {
+                "$oid": "683bf660e0086564267a72be"
+              },
+              "optionId": "d68fb7",
+              "isCorrect": false
+            }
+          ],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 28,
+          "timeLeftWhenAttempted": 88,
+          "status": "answered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Electrostatics"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Electric Potential and Potential Energy"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Electric potential due to point charge"
+              }
+            ],
+            "level": "easy",
+            "question": {
+              "text": "A point charge of magnitude $+1 \\mu \\mathrm{C}$ is fixed at $(0,0,0)$. An isolated uncharged spherical conductor, is fixed with its centre at $(4,0,0)$. The potential at the centre of the sphere is $\\ldots \\ldots 10^{3}$ unit."
+            }
+          },
+          "markedOptions": [
+            {
+              "_id": {
+                "$oid": "683bf660e0086564267a72c0"
+              },
+              "optionId": "073487",
+              "isCorrect": true
+            }
+          ],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 40,
+          "timeLeftWhenAttempted": 87,
+          "status": "answered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Capacitance"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Capacitors with Dielectric"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Induced charge on dielectric"
+              }
+            ],
+            "level": "tough",
+            "question": {
+              "text": "Electric field inside the given capacitor with dielectric is $E$ and dielectric constant of material is $K$. Find charge density $\\sigma$ on the plates. (Given $E=6 \\times 10^5 \\mathrm{~V} / \\mathrm{m}, K=6$ )\r\n<img src=\"https://cdn.quizrr.in/question-assets/jee_main/2026/jee_main_pt_2026/WbsB7SvrV6cIPa-G2FdLsjDLEOs9SDpC8wSRnKXBmZM.original.fullsize.png\"/><br/>"
+            }
+          },
+          "markedOptions": [
+            {
+              "_id": {
+                "$oid": "683bf660e0086564267a72c2"
+              },
+              "optionId": "752ca1",
+              "isCorrect": true
+            }
+          ],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 22,
+          "timeLeftWhenAttempted": 86,
+          "status": "answered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Electrostatics"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Electric Field and Electric Field Lines"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Charged Particle in electric field"
+              }
+            ],
+            "level": "easy",
+            "question": {
+              "text": "Assertion : A charged particle free to move in an electric field always moves along an electric field line.\r\r\nReason: The electric field lines diverge from a negative charge and converge at a positive charge."
+            }
+          },
+          "markedOptions": [
+            {
+              "_id": {
+                "$oid": "683bf660e0086564267a72c4"
+              },
+              "optionId": "7f298a",
+              "isCorrect": true
+            }
+          ],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 93,
+          "timeLeftWhenAttempted": 85,
+          "status": "answered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Electrostatics"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Electric Field and Electric Field Lines"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Electric field by group of charges"
+              }
+            ],
+            "level": "tough",
+            "question": {
+              "text": "A clock face has negative charges <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mi>q</mi><mtext>,</mtext><mo>-</mo><mn>2</mn><mi>q</mi><mtext>,</mtext><mo>-</mo><mn>3</mn><mi>q</mi><mtext>,&#8230;.,</mtext><mo>-</mo><mn>12</mn><mi>q</mi></math> fixed at the position of the corresponding numerals on the dial. The clock hands do not disturb the net field due to point charges. At what time does the hour hand point in the same direction of the electric field at the centre&nbsp;of the dial?"
+            }
+          },
+          "markedOptions": [
+            {
+              "_id": {
+                "$oid": "683bf660e0086564267a72c6"
+              },
+              "optionId": "ea4f40",
+              "isCorrect": true
+            }
+          ],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 24,
+          "timeLeftWhenAttempted": 84,
+          "status": "answered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Capacitance"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Force and Energy stored in capacitor"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Energy stored in capacitor"
+              }
+            ],
+            "level": "medium",
+            "question": {
+              "text": "A conducting sphere of radius $R$ carrying charge $Q$ lies inside an uncharged conducting shell of radius $2 R$. If they are joined by a metal wire, the amount of heat that will be produced is"
+            }
+          },
+          "markedOptions": [
+            {
+              "_id": {
+                "$oid": "683bf660e0086564267a72c8"
+              },
+              "optionId": "0dca18",
+              "isCorrect": true
+            }
+          ],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 22,
+          "timeLeftWhenAttempted": 84,
+          "status": "answered"
+        }
+      ]
+    },
+    {
+      "sectionId": {
+        "sectionType": "normal",
+        "title": "Physics Numerical",
+        "maximumAttemptLimit": 5
+      },
+      "questions": [
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Capacitance"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Grouping of capacitors"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Series and Parallel Combinations of Capacitor"
+              }
+            ],
+            "level": "easy",
+            "question": {
+              "text": "A $10 \\mu \\mathrm{F}$ capacitor is charged to a potential difference of $50 \\mathrm{~V}$ and is connected to another uncharged capacitor in parallel. Now the common potential difference becomes $20 \\mathrm{~V}$. What is the capacitance value (in $\\mu \\mathrm{F}$) of the second capacitor?"
+            }
+          },
+          "markedOptions": [],
+          "inputValue": {
+            "value": "15",
+            "isCorrect": true
+          },
+          "timeTaken": 44,
+          "timeLeftWhenAttempted": 83,
+          "status": "answered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Electrostatics"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Electric Field and Electric Field Lines"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Electric Field due to continuous charge distribution"
+              }
+            ],
+            "level": "medium",
+            "question": {
+              "text": "A solid sphere of radius $R$ has a charge $Q$ distributed in its volume with a charge density $\\rho$ $=k r^{a}$, where $k$ and $a$ are constants and $r$ is the distance from its centre. If the electric field at $r=$ $\\frac{R}{2}$ is $\\frac{1}{8}$ times that at $r=R,$ the value of $a$ is"
+            }
+          },
+          "markedOptions": [],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 16,
+          "timeLeftWhenAttempted": 82,
+          "status": "markedReview"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Capacitance"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Grouping of capacitors"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Series and Parallel Combinations of Capacitor"
+              }
+            ],
+            "level": "medium",
+            "question": {
+              "text": "In the given figure, the capacitance $C_1, C_3, C_4$, $\\mathrm{C}_5$ have a capacitance $4 \\mu \\mathrm{F}$ each. If\r\r\n<img src=\"https://cdn.quizrr.in/question-assets/jee_main/2025/reviaa15561zoon/VUQFQE380qsXbr6o0guXwlSBoBf9TNDwdz7juVtR00I.original.fullsize.png\"/>\r\r\nthe capacitor $C_2$ has a capacitance $10 \\mu \\mathrm{F}$, then effective capacitance between $A$ and $B$ will be (in $\\mu F$)"
+            }
+          },
+          "markedOptions": [],
+          "inputValue": {
+            "value": "4",
+            "isCorrect": true
+          },
+          "timeTaken": 20,
+          "timeLeftWhenAttempted": 82,
+          "status": "answered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Electrostatics"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Electric Flux and Gauss Law"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Gauss theorem"
+              }
+            ],
+            "level": "tough",
+            "question": {
+              "text": "An infinitely long solid cylinder of radius $R$ has a uniform volume charge density $\\rho$. It has a spherical cavity of radius $R / 2$ with its centre on the axis of the cylinder as shown in the figure. The magnitude of the electric field at the point $\\mathrm{P}$, which is at a distance $2 \\mathrm{R}$ from the axis of the cylinder, is given by the expression $\\frac{23 \\rho R}{16 K \\varepsilon_{n}}$. The value of $K$ is<br><img src=\"https://cdn.quizrr.in/question-assets/jee_main/2024/pt_33sfsd2523/AKbGVuMF87ssBhd-FX5SGte7n61j94Qm5v9MYaH_1Ig.original.fullsize_2.png\" />"
+            }
+          },
+          "markedOptions": [],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 6,
+          "timeLeftWhenAttempted": 82,
+          "status": "markedReview"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Electrostatics"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Electric Potential and Potential Energy"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Electric potential due to point charge"
+              }
+            ],
+            "level": "medium",
+            "question": {
+              "text": "An electric charge $10^{-3} \\mu \\mathrm{C}$ is placed at the origin $(0,0)$ of $(x-y)$ co-ordinate system. Two points $A$ and $B$ are situated at $(\\sqrt{2}, \\sqrt{2})$ and $(2,0)$ respectively. The potential difference between the points $A$ and $B$ will be"
+            }
+          },
+          "markedOptions": [],
+          "inputValue": {
+            "value": "0",
+            "isCorrect": true
+          },
+          "timeTaken": 26,
+          "timeLeftWhenAttempted": 82,
+          "status": "answered"
+        }
+      ]
+    },
+    {
+      "sectionId": {
+        "sectionType": "normal",
+        "title": "Chemistry Single Correct",
+        "maximumAttemptLimit": 20
+      },
+      "questions": [
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Electrochemistry"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Cells and Electrode Potential, Nernst Equation"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Faraday's laws of electrolysis"
+              }
+            ],
+            "level": "medium",
+            "question": {
+              "text": "On electrolyzing \\(\\mathrm{K}_2 \\mathrm{SO}_4\\) solution using inert electrodes, 1.68 L (at STP) of gas mixture was obtained. How many moles of \\(\\mathrm{MnO}_4^{-}\\)could be reduced to \\(\\mathrm{Mn}^{2+}\\) by the same quantity of electricity?"
+            }
+          },
+          "markedOptions": [],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 16,
+          "timeLeftWhenAttempted": 115,
+          "status": "notAnswered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Solutions"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Henry's law"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Henry's law"
+              }
+            ],
+            "level": "easy",
+            "question": {
+              "text": "<p>Molar solubility of helium, nitrogen and oxygen are plotted against partial pressure of the gas at constant temperature. Henry&#39;s law constant for these gases will lie in which of the&nbsp;following sequences?</p><p><img src=\"https://cdn.quizrr.in/question-assets/jee_main/2024/pt_33sfsd2523/4a3065b7-bee0-499f-a392-311ffcd81434-image.png\" style=\"width: 340px; height: 223px;\" /></p>"
+            }
+          },
+          "markedOptions": [
+            {
+              "_id": {
+                "$oid": "683bf660e0086564267a72d2"
+              },
+              "optionId": "4fc815",
+              "isCorrect": true
+            }
+          ],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 38,
+          "timeLeftWhenAttempted": 123,
+          "status": "answered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Solutions"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Colligative Properties and Abnormal Molecular Masses"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Depression in freezing point"
+              }
+            ],
+            "level": "tough",
+            "question": {
+              "text": "0.15 g of weak polybasic acid \\(H_x A\\) required 20 ml of 0.1 M NaOH solution for complete neutralization. In a separate experiment 3.88 g sodium salt of the same and dissolved in 100 g water. solution freezes at \\(-0.93^{\\circ} \\mathrm{C}\\left(\\mathrm{K}_f \\mathrm{H}_2 \\mathrm{O}=1.86 \\mathrm{~k~kg}\\right.\\) mole \\(\\left.{ }^{-1}\\right)\\) molecular formula of one mole of sodium salt is"
+            }
+          },
+          "markedOptions": [],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 12,
+          "timeLeftWhenAttempted": 123,
+          "status": "markedReview"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Electrochemistry"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Cells and Electrode Potential, Nernst Equation"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Electrode potential"
+              }
+            ],
+            "level": "easy",
+            "question": {
+              "text": "Using the standard electrode potentials given below identify the correct statements from the following.\r\r\n$\\begin{aligned}\r\r\n\\mathrm{Fe}^{2+}+2 e^{-} \\longrightarrow \\mathrm{Fe} ; E^{\\circ} & =-0.44 \\mathrm{~V} \\\\\r\r\n\\mathrm{Cu}^{2+}+2 e^{-} \\longrightarrow \\mathrm{Cu} ; E^{\\circ} & =+0.34 \\mathrm{~V} \\\\\r\r\n\\mathrm{Ag}^{+}+e^{-} \\longrightarrow \\mathrm{Ag} ; E^{\\circ} & =+0.80 \\mathrm{~V}\r\r\n\\end{aligned}$\r\r\n(i) Copper can displace iron from $\\mathrm{FeSO}_4$ solution.\r\r\n(ii) Iron can displace copper from $\\mathrm{CuSO}_4$ solution.\r\r\n(iii) Silver can displace copper from $\\mathrm{CuSO}_4$ solution.\r\r\n(iv) Iron can displace silver from $\\mathrm{AgNO}_3$ solution."
+            }
+          },
+          "markedOptions": [],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 3,
+          "timeLeftWhenAttempted": 123,
+          "status": "notAnswered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Electrochemistry"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Conductance and Conductivity"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Molar conductivity"
+              }
+            ],
+            "level": "medium",
+            "question": {
+              "text": "The conductivity of a weak acid<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#160;</mo><mi>HA</mi></math> of concentration <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>001</mn><mo>&#160;</mo><mi>mol</mi><msup><mrow><mo>&#160;</mo><mi mathvariant=\"normal\">L</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>.</mo><mn>0</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>5</mn></mrow></msup><mo>&#160;</mo><mi mathvariant=\"normal\">S</mi><msup><mrow><mo>&#160;</mo><mi>cm</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>. If&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi>&#923;</mi><mi mathvariant=\"normal\">m</mi><mn>0</mn></msubsup><mo>(</mo><mi>HA</mi><mo>)</mo><mo>=</mo><mn>190</mn><mo>&#160;</mo><mi mathvariant=\"normal\">S</mi><msup><mrow><mo>&#160;</mo><mi>cm</mi></mrow><mn>2</mn></msup><msup><mrow><mo>&#160;</mo><mi>mol</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>,</mo></math> the ionization constant <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><msub><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">a</mi></msub></mfenced></math> of HA is equal to&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>_</mi><mi>_</mi><mi>_</mi><mi>_</mi></math>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>6</mn></mrow></msup></math><br />(Round off to the Nearest Integer)"
+            }
+          },
+          "markedOptions": [],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 30,
+          "timeLeftWhenAttempted": 122,
+          "status": "notAnswered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Solutions"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Vapour pressure and raoult's law"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Azeotropic solutions"
+              }
+            ],
+            "level": "easy",
+            "question": {
+              "text": "The plot of total vapour pressure as a function of mole fraction of the components of an ideal solution formed by mixing liquids <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">X</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">Y</mi></math> is:"
+            }
+          },
+          "markedOptions": [
+            {
+              "_id": {
+                "$oid": "683bf660e0086564267a72d7"
+              },
+              "optionId": "48c781",
+              "isCorrect": true
+            }
+          ],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 26,
+          "timeLeftWhenAttempted": 121,
+          "status": "answered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Solutions"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Colligative Properties and Abnormal Molecular Masses"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Osmotic pressure"
+              }
+            ],
+            "level": "medium",
+            "question": {
+              "text": "\\(\\mathrm{FeCl}_{3}\\) on reaction with \\(\\mathrm{K}_{4}\\left[\\mathrm{Fe}(\\mathrm{CN})_{6}\\right]\\) in aqueous solution gives blue colour. These are separated by a semipermeable membrane \\(\\mathrm{AB}\\) as shown. Due to osmosis there is<br><img src=\"https://cdn.quizrr.in/question-assets/jee_main/2024/pt_33sfsd2523/6buAn9fvQe_2.png\"/>"
+            }
+          },
+          "markedOptions": [
+            {
+              "_id": {
+                "$oid": "683bf660e0086564267a72d9"
+              },
+              "optionId": "b63d7e",
+              "isCorrect": false
+            }
+          ],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 38,
+          "timeLeftWhenAttempted": 121,
+          "status": "answered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Electrochemistry"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Cells and Electrode Potential, Nernst Equation"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Concept of EMF of cell"
+              }
+            ],
+            "level": "easy",
+            "question": {
+              "text": "For the electrochemical cell, $M\\left|M^{+} \\| X^{-}\\right| X$, $E^{\\circ}\\left(M^{+} \\mid M\\right)=0.44 \\mathrm{~V}$ and $E^{\\circ}\\left(X \\mid X^{-}\\right)=0.33 \\mathrm{~V}$. From this data one can deduce that"
+            }
+          },
+          "markedOptions": [],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 1,
+          "timeLeftWhenAttempted": 121,
+          "status": "markedReview"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Electrochemistry"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Cells and Electrode Potential, Nernst Equation"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Nernst equation"
+              }
+            ],
+            "level": "medium",
+            "question": {
+              "text": "The voltage of the cell consisting of \\(\\mathrm{Li}\\) (s) and \\(\\mathrm{F}_{2}(\\mathrm{~g})\\) electrodes is \\(5.92 \\mathrm{~V}\\) at standard condition at \\(298 \\mathrm{~K}\\). What is the voltage if the electrolyte consists of \\(2 \\mathrm{M} \\mathrm{~LiF}\\).\\(\\left(\\ln 2=0.693, \\mathrm{R}=8.314 \\mathrm{JK}^{-1} \\mathrm{~mol}^{-1}\\right.\\) and \\(\\left.\\mathrm{F}=96500 \\mathrm{C} \\mathrm{mol}^{-1}\\right)\\)"
+            }
+          },
+          "markedOptions": [],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 3,
+          "timeLeftWhenAttempted": 121,
+          "status": "markedReview"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Solutions"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Colligative Properties and Abnormal Molecular Masses"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Elevation in boiling point"
+              }
+            ],
+            "level": "tough",
+            "question": {
+              "text": "Boiling point of benzene is $353.23 \\mathrm{~K}$. When $1.8 \\mathrm{~g}$ of non-volatile solute is dissolved in $90 \\mathrm{~g}$ of benzene. Then boiling point is raised to $354.11 \\mathrm{~K}$. Given $K_b$ (benzene) $=2.53 \\mathrm{~kg} \\mathrm{~mol}^{-1}$. The molecular mass of non-volatile substance is"
+            }
+          },
+          "markedOptions": [
+            {
+              "_id": {
+                "$oid": "683bf660e0086564267a72dd"
+              },
+              "optionId": "166ea5",
+              "isCorrect": true
+            }
+          ],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 49,
+          "timeLeftWhenAttempted": 120,
+          "status": "answered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Electrochemistry"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Corrosion"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Factors which enhance corrosion"
+              }
+            ],
+            "level": "easy",
+            "question": {
+              "text": "Mark the correct statement(s) for corrosion."
+            }
+          },
+          "markedOptions": [
+            {
+              "_id": {
+                "$oid": "683bf660e0086564267a72df"
+              },
+              "optionId": "9240b7",
+              "isCorrect": true
+            }
+          ],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 39,
+          "timeLeftWhenAttempted": 119,
+          "status": "answered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Solutions"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Colligative Properties and Abnormal Molecular Masses"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Osmotic pressure"
+              }
+            ],
+            "level": "medium",
+            "question": {
+              "text": "Statement - 1: Reverse osmosis is used to purify saline water.<br/><br/>Statement -2: Solvent molecules pass from concentrated to dilute solution through semipermeable membrane if high pressure is applied on solution."
+            }
+          },
+          "markedOptions": [
+            {
+              "_id": {
+                "$oid": "683bf660e0086564267a72e1"
+              },
+              "optionId": "312c51",
+              "isCorrect": false
+            }
+          ],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 58,
+          "timeLeftWhenAttempted": 118,
+          "status": "answered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Electrochemistry"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Cells and Electrode Potential, Nernst Equation"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Nernst equation"
+              }
+            ],
+            "level": "tough",
+            "question": {
+              "text": "Suppose that gold is being plated on to another metal in an electrolytic cell. The half-cell reaction producing the Au(s) is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtext>A</mtext><mtext>u</mtext><mtext>C</mtext><msubsup><mtext>l</mtext><mn>4</mn><mo>-</mo></msubsup><msup><mtext>&nbsp;+3e</mtext><mo>-</mo></msup><mo>→</mo><mtext>A</mtext><mtext>u</mtext><mfenced separators=\"|\"><mtext>s</mtext></mfenced><mo>+</mo><mn>4</mn><mtext>C</mtext><msup><mtext>l</mtext><mo>-</mo></msup></math> . If a 0.30 A current runs for 15.00 minute, what mass of Au(s) will be plated, assume all the electrons are used in the reduction of <math><mtext>A</mtext><mtext>u</mtext><mtext>C</mtext><msubsup><mrow><mtext>l</mtext></mrow><mrow><mn>4</mn></mrow><mrow><mo>-</mo></mrow></msubsup></math> ? The Faraday constant is 96485 <math><mrow><mrow><mtext>C</mtext></mrow><mo>/</mo><mrow><mtext>m</mtext><mtext>o</mtext><mtext>l</mtext></mrow></mrow></math> and molar mass of Au is 197."
+            }
+          },
+          "markedOptions": [],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 3,
+          "timeLeftWhenAttempted": 118,
+          "status": "markedReview"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Solutions"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Vapour pressure and raoult's law"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Azeotropic solutions"
+              }
+            ],
+            "level": "easy",
+            "question": {
+              "text": "Assertion : Azeotropic mixtures are formed only by non-ideal solutions and they may have boiling points either greater than both the components or lesser than both the components.\r\nReason: The composition of the vapour phase is same as that of the liquid phase of an azeotropic mixture."
+            }
+          },
+          "markedOptions": [
+            {
+              "_id": {
+                "$oid": "683bf660e0086564267a72e4"
+              },
+              "optionId": "baacec",
+              "isCorrect": true
+            }
+          ],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 51,
+          "timeLeftWhenAttempted": 117,
+          "status": "answered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Electrochemistry"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Cells and Electrode Potential, Nernst Equation"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Electrode potential"
+              }
+            ],
+            "level": "medium",
+            "question": {
+              "text": "A $1.0 \\mathrm{M}$ solution with respect to each of the metal halides $\\mathrm{AX}_{3}, \\mathrm{BX}_{2}, \\mathrm{CX}_{3}$ and $\\mathrm{DX}_{2}$ is electrolysed using platinum electrodes. If $\\mathrm{E}^{\\circ}_{\\mathrm{A}^{3+} / \\mathrm{A}}=1.50 \\mathrm{~V}, \\mathrm{E}_{\\mathrm{B}^{2+} / \\mathrm{B}}^{\\circ}=0.3 \\mathrm{~V}, \\mathrm{E}^{\\circ}_{\\mathrm{C}^{3+} / \\mathrm{C}}=-0.74 \\mathrm{~V}$, $\\mathrm{E}^{\\circ}_{\\mathrm{D}^{2+} / \\mathrm{D}}=-2.37 \\mathrm{~V}$. The correct sequence in which the various metals are deposited at the cathode is"
+            }
+          },
+          "markedOptions": [],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 4,
+          "timeLeftWhenAttempted": 117,
+          "status": "markedReview"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Solutions"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Henry's law"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Henry's law"
+              }
+            ],
+            "level": "medium",
+            "question": {
+              "text": "<p>Regarding to Henry&#39;s law which of the following is not correct statement ?</p>"
+            }
+          },
+          "markedOptions": [
+            {
+              "_id": {
+                "$oid": "683bf660e0086564267a72e7"
+              },
+              "optionId": "ccace9",
+              "isCorrect": true
+            }
+          ],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 28,
+          "timeLeftWhenAttempted": 116,
+          "status": "answered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Electrochemistry"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Cells and Electrode Potential, Nernst Equation"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Electrode potential"
+              }
+            ],
+            "level": "easy",
+            "question": {
+              "text": "The standard reduction potential of $\\mathrm{Li}^{+} / \\mathrm{Li}, \\mathrm{Ba}^{2+} / \\mathrm{Ba}^{2}, \\mathrm{Na}^{+} / \\mathrm{Na}$ and $\\mathrm{Mg}^{2+} / \\mathrm{Mg}$ are $-3.05$, $-2.73,-2.71$ and $-2.37$ volts respectively. Which one of the following is strongest oxidising agent?"
+            }
+          },
+          "markedOptions": [],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 2,
+          "timeLeftWhenAttempted": 116,
+          "status": "markedReview"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Electrochemistry"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Cells and Electrode Potential, Nernst Equation"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Faraday's laws of electrolysis"
+              }
+            ],
+            "level": "medium",
+            "question": {
+              "text": "A \\(200 \\mathrm{~W}, 100 \\mathrm{~V}\\) bulb is connected in series with an electrolytic cell. If an aqueous solution of an Sn-salt is electrolysed for \\(5 \\mathrm{hrs}\\), \\(11.1 \\mathrm{~g}\\) of \\(\\mathrm{Sn}\\) gets deposited. The chemical formula of the compound is (Given atomic weight of \\(\\mathrm{Sn}\\) is \\(118.7 \\mathrm{~g} \\mathrm{~mol}^{-1}\\))."
+            }
+          },
+          "markedOptions": [],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 2,
+          "timeLeftWhenAttempted": 116,
+          "status": "markedReview"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Solutions"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Colligative Properties and Abnormal Molecular Masses"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Osmotic pressure"
+              }
+            ],
+            "level": "easy",
+            "question": {
+              "text": "Which of the following statements is false?"
+            }
+          },
+          "markedOptions": [
+            {
+              "_id": {
+                "$oid": "683bf660e0086564267a72eb"
+              },
+              "optionId": "3326c9",
+              "isCorrect": true
+            }
+          ],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 56,
+          "timeLeftWhenAttempted": 115,
+          "status": "answered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Solutions"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Vapour pressure and raoult's law"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Vapour pressure of solution containing volatile solute and volatile solvent"
+              }
+            ],
+            "level": "tough",
+            "question": {
+              "text": "A solution has a 1 : 4 mole ratio of pentane to hexane. The vapour pressures of the pure hydrocarbons at $20^{\\circ} \\mathrm{C}$ are 440 $\\mathrm{mm} \\mathrm{Hg}$ for pentane and $120 \\mathrm{~mm} \\mathrm{Hg}$ for hexane. the mole fraction of pentane in the vapour phase would be:"
+            }
+          },
+          "markedOptions": [
+            {
+              "_id": {
+                "$oid": "683bf660e0086564267a72ed"
+              },
+              "optionId": "d4e4e4",
+              "isCorrect": true
+            }
+          ],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 59,
+          "timeLeftWhenAttempted": 114,
+          "status": "answered"
+        }
+      ]
+    },
+    {
+      "sectionId": {
+        "sectionType": "normal",
+        "title": "Chemistry Numerical",
+        "maximumAttemptLimit": 5
+      },
+      "questions": [
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Electrochemistry"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Cells and Electrode Potential, Nernst Equation"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Faraday's laws of electrolysis"
+              }
+            ],
+            "level": "tough",
+            "question": {
+              "text": "A current of $2.0 \\mathrm{~A}$ when passed for 5 hours through a molten metal salt deposits $22.2 \\mathrm{~g}$ of metal of atomic weight 177 . The oxidation state of the metal in the metal salt is"
+            }
+          },
+          "markedOptions": [],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 14,
+          "timeLeftWhenAttempted": 114,
+          "status": "markedReview"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Solutions"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Colligative Properties and Abnormal Molecular Masses"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Depression in freezing point"
+              }
+            ],
+            "level": "easy",
+            "question": {
+              "text": "If the freezing point of a <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>01</mn></math> molal aqueous solution of a cobalt (III) bromide-ammonia complex (which behaves as a strong electrolyte) is&nbsp;&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>0</mn><mo>.</mo><mn>0557</mn><mo>°</mo><mi mathvariant=\"normal\">C</mi></math> , the number of bromide(s) in the coordination sphere of the complex is [ <math><msub><mrow><mi mathvariant=\"normal\">K</mi></mrow><mrow><mi mathvariant=\"normal\">f</mi></mrow></msub></math> for water <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>1</mn><mo>.86</mo><mo>&nbsp;</mo><mi mathvariant=\"normal\">K</mi></math>&nbsp;&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>kg</mi><mo>&nbsp;</mo><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi><msup><mi mathvariant=\"normal\">l</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> ]"
+            }
+          },
+          "markedOptions": [],
+          "inputValue": {
+            "value": "3",
+            "isCorrect": false
+          },
+          "timeTaken": 60,
+          "timeLeftWhenAttempted": 113,
+          "status": "answered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Electrochemistry"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Conductance and Conductivity"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Conductance"
+              }
+            ],
+            "level": "medium",
+            "question": {
+              "text": "Molar conductance of saturated \\(\\mathrm{BaSO}_4\\) solution is \\(400 \\mathrm{ohm}^{-1} \\mathrm{~cm}^2 \\mathrm{~mol}^{-1}\\) and its specific conductance is \\(4 \\times 10^{-5} \\mathrm{ohm}^{-1} \\mathrm{~cm}^{-1}\\). Hence solubility product value of \\(\\mathrm{BaSO}_4\\) can be concluded as \\(\\mathrm{x} \\times 10^{-8} \\mathrm{M}^2\\). Identify x."
+            }
+          },
+          "markedOptions": [],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 3,
+          "timeLeftWhenAttempted": 113,
+          "status": "markedReview"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Electrochemistry"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Cells and Electrode Potential, Nernst Equation"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Relationship between gibbs free energy and electrode potential"
+              }
+            ],
+            "level": "medium",
+            "question": {
+              "text": "Four different solutions containing <math> <mrow> <mtext>1</mtext><mtext> </mtext><mtext>M</mtext></mrow> </math> each of <math><mi mathvariant=\"normal\">A</mi><msup><mrow><mi mathvariant=\"normal\">u</mi></mrow><mrow><mo>+</mo><mn>3</mn></mrow></msup><mo>,</mo><mi mathvariant=\"normal\">C</mi><msup><mrow><mi mathvariant=\"normal\">u</mi></mrow><mrow><mo>+</mo><mn>2</mn></mrow></msup><mo>,</mo><mi mathvariant=\"normal\">A</mi><msup><mrow><mi mathvariant=\"normal\">g</mi></mrow><mrow><mo>+</mo></mrow></msup><mo>,</mo><mi mathvariant=\"normal\">L</mi><msup><mrow><mi mathvariant=\"normal\">i</mi></mrow><mrow><mo>+</mo></mrow></msup></math> are being electrolysed by using inert electrodes. In how many samples, metal ions would be deposited at cathode?<br/>\r[Given: <math><msub><mrow><msup><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mn>0</mn></mrow></msup></mrow><mrow><mrow><mrow><mi mathvariant=\"normal\">A</mi><msup><mrow><mi mathvariant=\"normal\">g</mi></mrow><mrow><mo>+</mo></mrow></msup></mrow><mo>/</mo><mrow><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">g</mi></mrow></mrow></mrow></msub><mo>=</mo><mn>0.8</mn><mi mathvariant=\"normal\">V</mi><mo>,</mo><msub><mrow><msup><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mn>0</mn></mrow></msup></mrow><mrow><mrow><mrow><mi mathvariant=\"normal\">A</mi><msup><mrow><mi mathvariant=\"normal\">u</mi></mrow><mrow><mo>+</mo><mn>3</mn></mrow></msup></mrow><mo>/</mo><mrow><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">u</mi></mrow></mrow></mrow></msub><mo>=</mo><mn>1.00</mn><mi mathvariant=\"normal\">V</mi></math> , <math><msub><mrow><msup><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mn>0</mn></mrow></msup></mrow><mrow><mrow><mrow><mi mathvariant=\"normal\">C</mi><msup><mrow><mi mathvariant=\"normal\">u</mi></mrow><mrow><mo>+</mo><mn>2</mn></mrow></msup></mrow><mo>/</mo><mrow><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">u</mi></mrow></mrow></mrow></msub><mo>=</mo><mn>0.34</mn><mi mathvariant=\"normal\">V</mi><mo>,</mo><msub><mrow><msup><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mn>0</mn></mrow></msup></mrow><mrow><mrow><mrow><mi mathvariant=\"normal\">L</mi><msup><mrow><mi mathvariant=\"normal\">i</mi></mrow><mrow><mo>+</mo></mrow></msup></mrow><mo>/</mo><mrow><mi mathvariant=\"normal\">L</mi><mi mathvariant=\"normal\">i</mi></mrow></mrow></mrow></msub><mo>=</mo><mo>-</mo><mn>3.03</mn><mi mathvariant=\"normal\">V</mi></math> ]"
+            }
+          },
+          "markedOptions": [],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 2,
+          "timeLeftWhenAttempted": 113,
+          "status": "markedReview"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Solutions"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Colligative Properties and Abnormal Molecular Masses"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Factors affecting colligative properties"
+              }
+            ],
+            "level": "medium",
+            "question": {
+              "text": "In a solvent <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>50</mn><mo>%</mo></math>&nbsp;of an acid HA dimerizes and the rest dissociates. The van&#39;t Hoff factor of the acid is _____<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup></math>&nbsp;(Round off to the nearest integer)"
+            }
+          },
+          "markedOptions": [],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 20,
+          "timeLeftWhenAttempted": 113,
+          "status": "markedReview"
+        }
+      ]
+    },
+    {
+      "sectionId": {
+        "sectionType": "normal",
+        "title": "Mathematics Single Correct",
+        "maximumAttemptLimit": 20
+      },
+      "questions": [
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Functions"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Odd and Even Functions"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Questions on determining odd and even functions"
+              }
+            ],
+            "level": "easy",
+            "question": {
+              "text": "$f(x)=\\frac{\\cos x}{\\left[\\frac{2 x}{\\pi}\\right]+\\frac{1}{2}}$, where x is not an integral multiple of $\\pi$ and [.] denotes the greatest integer function, is"
+            }
+          },
+          "markedOptions": [
+            {
+              "_id": {
+                "$oid": "683bf660e0086564267a727b"
+              },
+              "optionId": "380c3c",
+              "isCorrect": true
+            }
+          ],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 121,
+          "timeLeftWhenAttempted": 115,
+          "status": "answered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Sets and Relations"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Questions on Symmetric Transitive and Reflexive Properties"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Questions on Symmetric Transitive and Reflexive Properties"
+              }
+            ],
+            "level": "medium",
+            "question": {
+              "text": "Let $R$ be the real line. Let the relations $S$ and $T$ on $R$ be defined by $S=\\{(x, y): y=x+1,0     < x < 2\\}, T=\\{(x, y):(x-y)$ is an integer $\\}$. Then"
+            }
+          },
+          "markedOptions": [
+            {
+              "_id": {
+                "$oid": "683bf660e0086564267a727d"
+              },
+              "optionId": "d87dc7",
+              "isCorrect": true
+            }
+          ],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 116,
+          "timeLeftWhenAttempted": 176,
+          "status": "answered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Functions"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Functional Equation"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "questions based on functional equations"
+              }
+            ],
+            "level": "tough",
+            "question": {
+              "text": "Assume that $f(1)=0$ and that for all integers m and $\\mathrm{n}, f(\\mathrm{~m}+\\mathrm{n})=f(\\mathrm{~m})+f(\\mathrm{n})+3(4 \\mathrm{mn}-1)$, then $f(19)=$"
+            }
+          },
+          "markedOptions": [],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 97,
+          "timeLeftWhenAttempted": 173,
+          "status": "notAnswered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Sets and Relations"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Questions on number of relations and sets"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Questions on number of relations and sets"
+              }
+            ],
+            "level": "easy",
+            "question": {
+              "text": "Let $S=\\{(a, b, c) \\in N \\times N \\times N: a+b+c=21$, $a \\leq b \\leq c\\}$ and $T=\\{(a, b, c) \\in N \\times N \\times N: a, b, c$ are in $A P \\}$ where $N$ is the set of all natural numbers. Then, the number of elements in the set $\\mathrm{S} \\cap T$"
+            }
+          },
+          "markedOptions": [
+            {
+              "_id": {
+                "$oid": "683bf660e0086564267a7280"
+              },
+              "optionId": "329079",
+              "isCorrect": true
+            }
+          ],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 766,
+          "timeLeftWhenAttempted": 145,
+          "status": "answered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Functions"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Types of Function (Mapping)"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "determining one one and onto"
+              }
+            ],
+            "level": "medium",
+            "question": {
+              "text": "If <math><mi>f</mi><mo>:</mo><mi>R</mi><mo>→</mo><mi>R</mi></math> be a function such that <math><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>=</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup><mo>+</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>4</mn><mi>x</mi><mo>+</mo><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mi>x</mi></mrow></mrow><mo>.</mo></math> Then, the function <math><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced></math> is"
+            }
+          },
+          "markedOptions": [
+            {
+              "_id": {
+                "$oid": "683bf660e0086564267a7282"
+              },
+              "optionId": "a60cb5",
+              "isCorrect": true
+            }
+          ],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 102,
+          "timeLeftWhenAttempted": 159,
+          "status": "answered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Functions"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Domain"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "domain of modulus functions"
+              }
+            ],
+            "level": "medium",
+            "question": {
+              "text": "The domain of the function $f(x)=\\sqrt{\\frac{4-x^2}{[x]+2}}$, where $[x]$ denotes the greatest integer not more than $x$, is"
+            }
+          },
+          "markedOptions": [
+            {
+              "_id": {
+                "$oid": "683bf660e0086564267a7284"
+              },
+              "optionId": "6bc2c6",
+              "isCorrect": true
+            }
+          ],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 138,
+          "timeLeftWhenAttempted": 154,
+          "status": "answered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Functions"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Composite Function"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "finding fog and gof"
+              }
+            ],
+            "level": "easy",
+            "question": {
+              "text": "If $f: R \\rightarrow R$ is defined by\r\r\n$f(x)=\\left\\{\\begin{array}{ccc}\r\r\nx+4 &amp; \\text { for } &amp; x &lt; -4 \\\\\r\r\n3 x+2 &amp; \\text { for } &amp; -4 \\leq x &lt; 4 \\\\\r\r\nx-4 &amp; \\text { for } &amp; x \\geq 4\r\r\n\\end{array}\\right.$\r\r\nthen the correct matching of List I from List-II is :\r\r\n$\\begin{array}{l}\r\r\n\\text{List-I} & \\text{List-II} \\\\\r\r\n\\text{(A) } f(-5)+f(-4) & \\text{(i) } 14 \\\\\r\r\n\\text{(B) } f(|f(-8)|) & \\text{(ii) } 4 \\\\\r\r\n\\text{(C) } f(f(-7)+f(3)) & \\text{(iii) } -11 \\\\\r\r\n\\text{(D) } f(f(f(f(0))))+1 & \\text{(iv) } -1 \\\\\r\r\n& \\text{(v) } 1 \\\\\r\r\n& \\text{(vi) } 0\r\r\n\\end{array}$"
+            }
+          },
+          "markedOptions": [
+            {
+              "_id": {
+                "$oid": "683bf660e0086564267a7286"
+              },
+              "optionId": "e97e89",
+              "isCorrect": false
+            }
+          ],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 409,
+          "timeLeftWhenAttempted": 147,
+          "status": "answered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Functions"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Types of Function (Mapping)"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "determining one one and onto"
+              }
+            ],
+            "level": "tough",
+            "question": {
+              "text": "Let $f(x)$ and $g(x)$ are two function defined from $R^{+} \\rightarrow R$ such that $f(x)=\\left\\{\\begin{array}{ll}1-\\sqrt{x}, & \\text { if } x \\text { is rational } \\\\ x^2, & \\text { if } x \\text { is irrational }\\end{array}\\right.$ and $g(x)= \\begin{cases}x, & \\text { if } x \\text { is rational } \\\\ 1-x, & \\text { if } x \\text { is irrational }\\end{cases}$\r\nThe composite function $f(g(x))$ is:"
+            }
+          },
+          "markedOptions": [
+            {
+              "_id": {
+                "$oid": "683bf660e0086564267a7288"
+              },
+              "optionId": "09e0fb",
+              "isCorrect": false
+            }
+          ],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 93,
+          "timeLeftWhenAttempted": 144,
+          "status": "answered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Functions"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Range"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "range of inverse trigonometric functions"
+              }
+            ],
+            "level": "medium",
+            "question": {
+              "text": "The range of the function&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>=</mo><mn>2</mn><msup><mi>sin</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>⁡</mo><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mfenced><mo>+</mo><msup><mi>cos</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>⁡</mo><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mfenced></math> is (where, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"]\" open=\"[\"><mo>·</mo></mfenced></math>&nbsp;denotes the greatest integer function)"
+            }
+          },
+          "markedOptions": [
+            {
+              "_id": {
+                "$oid": "683bf660e0086564267a728a"
+              },
+              "optionId": "6a0707"
+            }
+          ],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 75,
+          "timeLeftWhenAttempted": 143,
+          "status": "markedReview"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Sets and Relations"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Questions on Symmetric Transitive and Reflexive Properties"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Questions on Symmetric Transitive and Reflexive Properties"
+              }
+            ],
+            "level": "easy",
+            "question": {
+              "text": "<p>Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi></math> be the relation defined on the set of all real numbers such that <math> <mrow> <mtext>P</mtext> <mo>=</mo> <mfenced close=\"}\" open=\"{\" separators=\",\"> <mrow> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>a,&#160;b</mtext> </mrow> </mfenced> <mtext>&#160;:&#160;</mtext> <msup> <mtext>sec</mtext> <mn>2</mn> </msup> <mtext>a</mtext><mo>-</mo> <msup> <mtext>tan</mtext> <mn>2</mn> </msup> <mtext>b</mtext> <mo>=</mo> <mn>1</mn> </mrow> </mfenced> </mrow> </math>. Then <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi></math> is&nbsp;</p>"
+            }
+          },
+          "markedOptions": [
+            {
+              "_id": {
+                "$oid": "683bf660e0086564267a728c"
+              },
+              "optionId": "fe84b5",
+              "isCorrect": false
+            }
+          ],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 38,
+          "timeLeftWhenAttempted": 142,
+          "status": "answered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Functions"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Types of Function (Mapping)"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "number of onto functions"
+              }
+            ],
+            "level": "tough",
+            "question": {
+              "text": "Given two real sets <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo>=</mo><mfenced close=\"}\" open=\"{\"><mrow><mi>a</mi><mo>,</mo><msub><mi>a</mi><mn>2</mn></msub><mo>,</mo><msub><mi>a</mi><mn>3</mn></msub><mo>&#8943;</mo><msub><mi>a</mi><mrow><mn>2</mn><mi>n</mi></mrow></msub></mrow></mfenced></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi><mfenced close=\"}\" open=\"{\"><mrow><msub><mi>b</mi><mn>1</mn></msub><mo>,</mo><msub><mi>b</mi><mn>2</mn></msub><mo>,</mo><mo>&#8943;</mo><msub><mi>b</mi><mi>n</mi></msub></mrow></mfenced><mo>.</mo></math>&nbsp;If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mo>:</mo><mi>A</mi><mo>&#8594;</mo><mi>B</mi></math> is a function such that every element of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi></math> has an inverse image and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><msub><mi>a</mi><mn>1</mn></msub></mfenced><mo>&#8804;</mo><mi>f</mi><mfenced><msub><mi>a</mi><mn>2</mn></msub></mfenced><mo>&#8804;</mo><mi>f</mi><mfenced><msub><mi>a</mi><mn>3</mn></msub></mfenced><mo>&#8804;</mo><mi>f</mi><mfenced><msub><mi>a</mi><mn>4</mn></msub></mfenced><mo>&#8943;</mo><mo>&#8804;</mo><mi>f</mi><mfenced><msub><mi>a</mi><mrow><mn>2</mn><mi>n</mi></mrow></msub></mfenced><mo>,</mo></math> then the number of such mappings are<br />&nbsp;"
+            }
+          },
+          "markedOptions": [],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 86,
+          "timeLeftWhenAttempted": 141,
+          "status": "markedReview"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Functions"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Functional Equation"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "questions based on functional equations"
+              }
+            ],
+            "level": "medium",
+            "question": {
+              "text": "The function $f(x)$ satisfies the functional equation $3 f(x)+2 f\\left(\\frac{x+59}{x-1}\\right)=10 x+30$ for all real $x \\neq 1$. The value of $f(7)$ is:"
+            }
+          },
+          "markedOptions": [
+            {
+              "_id": {
+                "$oid": "683bf660e0086564267a728f"
+              },
+              "optionId": "37aeac",
+              "isCorrect": true
+            }
+          ],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 124,
+          "timeLeftWhenAttempted": 138,
+          "status": "answered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Sets and Relations"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Questions on Venn Diagram"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Questions on Venn Diagram"
+              }
+            ],
+            "level": "tough",
+            "question": {
+              "text": "If a class of 175 students the following data shows the number of students opting one or more subjects. Mathematics 100 , Physics 70 , Chemistry 40 . Mathematics and Physics 30 , Mathematics and Chemistry 28, Physics and Chemistry 23, Mathematics, Physics and Chemistry 18 . The number of students who have opted Mathematics alone is"
+            }
+          },
+          "markedOptions": [
+            {
+              "_id": {
+                "$oid": "683bf660e0086564267a7291"
+              },
+              "optionId": "4f46d9",
+              "isCorrect": true
+            }
+          ],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 87,
+          "timeLeftWhenAttempted": 137,
+          "status": "answered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Functions"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Inverse of a Function"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "questions on finding inverse of a function"
+              }
+            ],
+            "level": "easy",
+            "question": {
+              "text": "Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mo>:</mo><mi>R</mi><mo>-</mo><mo>{</mo><mn>3</mn><mo>}</mo><mo>&#8594;</mo><mi>R</mi><mo>-</mo><mo>{</mo><mn>1</mn><mo>}</mo></math> be defined by&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mfrac><mrow><mi>x</mi><mo>-</mo><mn>2</mn></mrow><mrow><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfrac></math>. Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi><mo>&#160;</mo><mo>:</mo><mo>&#160;</mo><mi>R</mi><mo>&#8594;</mo><mi>R</mi></math> be given as&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi><mo>(</mo><mi>x</mi><mo>)</mo><mo>=</mo><mn>2</mn><mi>x</mi><mo>-</mo><mn>3</mn></math>. Then, the sum of all the values&nbsp;of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math> for which <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>f</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mfenced><mi>x</mi></mfenced><mo>+</mo><msup><mi>g</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mfenced><mi>x</mi></mfenced><mo>=</mo><mfrac><mn>13</mn><mn>2</mn></mfrac></math> is equal to"
+            }
+          },
+          "markedOptions": [],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 57,
+          "timeLeftWhenAttempted": 136,
+          "status": "markedReview"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Functions"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Types of Function (Mapping)"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "determining one one and onto"
+              }
+            ],
+            "level": "medium",
+            "question": {
+              "text": "Let $f: R \\rightarrow R$ be defined by $f(x)=x^{2}-\\frac{x^{2}}{1+x^{2}}$ for all $x \\in R$. Then,"
+            }
+          },
+          "markedOptions": [
+            {
+              "_id": {
+                "$oid": "683bf660e0086564267a7294"
+              },
+              "optionId": "3ae56c",
+              "isCorrect": true
+            }
+          ],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 152,
+          "timeLeftWhenAttempted": 133,
+          "status": "answered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Functions"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Domain"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "domain of modulus functions"
+              }
+            ],
+            "level": "tough",
+            "question": {
+              "text": "If $[x]$ represent greatest integer $\\leq x$ and $[\\alpha, \\beta]$ is the set of all real values of $x$ for which the real function $f(x)=\\frac{\\sqrt{3+x}+\\sqrt{3-x}}{\\sqrt{[x]+2}}$ is defined, then $f^2(\\alpha+1)+5 f^2(\\beta)=$"
+            }
+          },
+          "markedOptions": [],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 11,
+          "timeLeftWhenAttempted": 133,
+          "status": "markedReview"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Sets and Relations"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Questions on number of relations and sets"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Questions on number of relations and sets"
+              }
+            ],
+            "level": "easy",
+            "question": {
+              "text": "Let $A=[x: x \\in R,|x| < 1] ; B=[x: x \\in R,|\\mathrm{x}-1| \\geq 1]$ and $A \\cup B=R-D$, then the set $D$ is"
+            }
+          },
+          "markedOptions": [],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 86,
+          "timeLeftWhenAttempted": 132,
+          "status": "markedReview"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Functions"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Composite Function"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "finding fog and gof"
+              }
+            ],
+            "level": "tough",
+            "question": {
+              "text": "Let $\\mathrm{f}(\\mathrm{x})=\\frac{\\mathrm{x}+1}{\\mathrm{x}-1}$ for all $\\mathrm{x} \\neq 1$. Let\r\n$\\mathrm{f}^{1}(\\mathrm{x})=\\mathrm{f}(\\mathrm{x}), \\mathrm{f}^{2}(\\mathrm{x})=\\mathrm{f}(\\mathrm{f}(\\mathrm{x}))$ and generally\r\n$f^{n}(x)=f\\left(f^{n-1}(x)\\right)$ for $n&gt;1$\r\nLet $\\mathrm{P}=\\mathrm{f}^{1}(2) \\mathrm{f}^{2}(3) \\mathrm{f}^{3}(4) \\mathrm{f}^{4}(5)$\r\nWhich of the following is a multiple of P -"
+            }
+          },
+          "markedOptions": [
+            {
+              "_id": {
+                "$oid": "683bf660e0086564267a7298"
+              },
+              "optionId": "7d4dfd",
+              "isCorrect": true
+            }
+          ],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 49,
+          "timeLeftWhenAttempted": 131,
+          "status": "answered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Functions"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Range"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "range involving modulus functions"
+              }
+            ],
+            "level": "easy",
+            "question": {
+              "text": "Range of the function $f(x)=\\frac{2|x|-1}{3|x|+2}$ is-"
+            }
+          },
+          "markedOptions": [
+            {
+              "_id": {
+                "$oid": "683bf660e0086564267a729a"
+              },
+              "optionId": "0027cf",
+              "isCorrect": true
+            }
+          ],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 113,
+          "timeLeftWhenAttempted": 129,
+          "status": "answered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Functions"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Periodicity"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "period of normal functions"
+              }
+            ],
+            "level": "medium",
+            "question": {
+              "text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>sin</mi><mi>a</mi><mi>x</mi><mo>+</mo><mi>cos</mi><mi>a</mi><mi>x</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>|</mo><mi>sin</mi><mi>x</mi><mo>|</mo><mo>+</mo><mo>|</mo><mi>cos</mi><mi>x</mi><mo>|</mo></math> are periodic with the same fundamental period, if <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi></math> equals to</p>"
+            }
+          },
+          "markedOptions": [
+            {
+              "_id": {
+                "$oid": "683bf660e0086564267a729c"
+              },
+              "optionId": "22943f",
+              "isCorrect": false
+            }
+          ],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 32,
+          "timeLeftWhenAttempted": 128,
+          "status": "answered"
+        }
+      ]
+    },
+    {
+      "sectionId": {
+        "sectionType": "normal",
+        "title": "Mathematics Numerical",
+        "maximumAttemptLimit": 5
+      },
+      "questions": [
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Functions"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Number of Solutions"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "questions based on finding number of solutions to an equation"
+              }
+            ],
+            "level": "tough",
+            "question": {
+              "text": "<p>Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"]\" open=\"[\"><mi>x</mi></mfenced></math> be the greatest integer less than or equal to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math>, for a real number <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math>. Then the following sum<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"]\" open=\"[\"><mfrac><mrow><msup><mn>2</mn><mn>2020</mn></msup><mo>+</mo><mn>1</mn></mrow><mrow><msup><mn>2</mn><mn>2018</mn></msup><mo>+</mo><mn>1</mn></mrow></mfrac></mfenced><mo>+</mo><mfenced close=\"]\" open=\"[\"><mfrac><mrow><msup><mn>3</mn><mn>2020</mn></msup><mo>+</mo><mn>1</mn></mrow><mrow><msup><mn>3</mn><mn>2018</mn></msup><mo>+</mo><mn>1</mn></mrow></mfrac></mfenced><mo>+</mo><mfenced close=\"]\" open=\"[\"><mfrac><mrow><msup><mn>4</mn><mn>2020</mn></msup><mo>+</mo><mn>1</mn></mrow><mrow><msup><mn>4</mn><mn>2018</mn></msup><mo>+</mo><mn>1</mn></mrow></mfrac></mfenced><mo>+</mo><mfenced close=\"]\" open=\"[\"><mfrac><mrow><msup><mn>5</mn><mn>2020</mn></msup><mo>+</mo><mn>1</mn></mrow><mrow><msup><mn>5</mn><mn>2018</mn></msup><mo>+</mo><mn>1</mn></mrow></mfrac></mfenced><mo>+</mo><mfenced close=\"]\" open=\"[\"><mfrac><mrow><msup><mn>6</mn><mn>2020</mn></msup><mo>+</mo><mn>1</mn></mrow><mrow><msup><mn>6</mn><mn>2018</mn></msup><mo>+</mo><mn>1</mn></mrow></mfrac></mfenced></math><br>is :-</p>"
+            }
+          },
+          "markedOptions": [],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 8,
+          "timeLeftWhenAttempted": 128,
+          "status": "markedReview"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Sets and Relations"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Questions on Venn Diagram"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Questions on Venn Diagram"
+              }
+            ],
+            "level": "easy",
+            "question": {
+              "text": "A survey of 500 television viewers produced the following information, 285 watch football, 195 watch hockey, 115 watch basket-ball, 45 watch football and basket ball, 70 watch football and hockey, 50 watch hockey and basket ball, 50 do not watch any of the three games. The number of viewers, who watch exactly one of the three games are"
+            }
+          },
+          "markedOptions": [],
+          "inputValue": {
+            "value": "325",
+            "isCorrect": true
+          },
+          "timeTaken": 40,
+          "timeLeftWhenAttempted": 127,
+          "status": "answered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Functions"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Functional Equation"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "questions based on functional equations"
+              }
+            ],
+            "level": "medium",
+            "question": {
+              "text": "Let&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mfrac><msup><mn>9</mn><mi>x</mi></msup><mrow><msup><mn>9</mn><mi>x</mi></msup><mo>+</mo><mn>3</mn></mrow></mfrac></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>+</mo><mi>f</mi><mfenced><mrow><mn>1</mn><mo>-</mo><mi>x</mi></mrow></mfenced><mo>=</mo><mn>1</mn></math>&nbsp;then find value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mfrac><mn>1</mn><mn>1996</mn></mfrac></mfenced><mo>+</mo><mfenced><mfrac><mn>2</mn><mn>1996</mn></mfrac></mfenced><mo>+</mo><mo>&#8230;</mo><mo>.</mo><mo>.</mo><mo>+</mo><mi>f</mi><mfenced><mfrac><mn>1995</mn><mn>1996</mn></mfrac></mfenced><mo>.</mo></math> (mark your answer after multiplying by 10)"
+            }
+          },
+          "markedOptions": [],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 55,
+          "timeLeftWhenAttempted": 126,
+          "status": "markedReview"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Sets and Relations"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Questions on number of relations and sets"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "Questions on number of relations and sets"
+              }
+            ],
+            "level": "medium",
+            "question": {
+              "text": "The number of elements in the set $S=\\{x \\in \\mathbb{Z}$ : $x^2-7 x+6 \\leq 0$ and $\\left.x^2-3 x>0\\right\\}$ is"
+            }
+          },
+          "markedOptions": [],
+          "inputValue": {
+            "value": "3",
+            "isCorrect": true
+          },
+          "timeTaken": 80,
+          "timeLeftWhenAttempted": 125,
+          "status": "answered"
+        },
+        {
+          "questionId": {
+            "chapters": [
+              {
+                "title": "Functions"
+              }
+            ],
+            "topics": [
+              {
+                "title": "Types of Function (Mapping)"
+              }
+            ],
+            "concepts": [
+              {
+                "title": "determining one one and onto"
+              }
+            ],
+            "level": "tough",
+            "question": {
+              "text": "Let $f(x)=x^2+4 x+a$ and $g(x)=x^2+6 x+2 a$ be two functions and another function $h(x)=\\frac{f(x)}{g(x)} \\forall g(x) \\neq 0$. Then find the sum of all integral values of $a$ for which $y=h(x)$ is an onto function."
+            }
+          },
+          "markedOptions": [],
+          "inputValue": {
+            "value": null,
+            "isCorrect": false
+          },
+          "timeTaken": 49,
+          "timeLeftWhenAttempted": 124,
+          "status": "markedReview"
+        }
+      ]
+    }
+  ]
+}]
