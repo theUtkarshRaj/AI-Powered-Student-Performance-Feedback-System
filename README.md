@@ -39,8 +39,7 @@ A Streamlit-based application that analyzes student test performance, visualizes
 
 Watch a short demo of the app in action:
 
-🎥 [Click here to watch the demo](Demo%20video.mp4)
-
+🎥 [Click here to watch the demo](https://drive.google.com/file/d/1VzmToJVXdNBRl4zG1Th2cNt6fpDLwzQL/view?usp=drive_link)
 
 ---
 
