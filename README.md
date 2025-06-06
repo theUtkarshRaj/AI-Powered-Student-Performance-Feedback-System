@@ -48,7 +48,7 @@ Watch a short demo of the app in action:
 Here are some previews of the application:
 
 ### 📊 Dashboard Overview
-![Dashboard Screenshot](Images/Performance_data.png)
+![Dashboard Screenshot](Images/dashboard.png)
 
 ### 📈 Visualization
 ![Radar Chart](Images/Visualization.png)
